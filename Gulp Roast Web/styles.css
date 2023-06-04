@@ -66,9 +66,10 @@ nav a:hover {
 }
 /* establishes a white background */
 .main-bkgd {
-  background: #ffffff url(https://assets.codepen.io/6306176/gulp-bean-bkgd.jpg)
+  background: #ffffff url(assets/img/gulp-bottom-beans.jpg)
     repeat-x bottom;
   padding-bottom: 300px;
+  
 }
 
 .products-header {
